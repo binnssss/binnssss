@@ -1,4 +1,5 @@
-#### Hello, Welcome to my GitHub profile
+![Esquie Dancing](https://media1.tenor.com/m/5LXJagf_OOsAAAAd/clair-obscur-clair.gif)
+## Hello, Welcome to my GitHub profile
 
 Here you can find personal projects I'm working on... or not. 
 
